@@ -33,7 +33,7 @@ I am a highly motivated aspiring software engineer based in Germany, specializin
 > **Repository:** `Advanced-Economy-Bot` — A massive ecosystem built with advanced BdScript logic.
 <p align="left">
   <img src="https://img.shields.io/github/repo-size/MihaiTeleuca/Advanced-Economy-Bot?label=Project%20Size&color=blue&style=flat-square" alt="Repo Size">
-  <img src="https://img.shields.io/badge/Status-In%20Development%20%2F%20%C3%8En%20Lucru-orange?style=flat-square" alt="Project Status">
+  <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square" alt="Project Status">
   <img src="https://img.shields.io/github/directory-file-count/MihaiTeleuca/Advanced-Economy-Bot?label=Total%20Commands%20Created&color=success&style=flat-square" alt="Total Commands">
 </p>
 
@@ -42,7 +42,7 @@ I am a highly motivated aspiring software engineer based in Germany, specializin
 
 | File Extension | Technology / Language | Total Files | Core Purpose in Portfolios | Project Status |
 | :--- | :--- | :--- | :--- | :--- |
-| `.bdfd` / `.txt` | **BdScript** (Discord Engine) | **2** | Advanced Economy, Real Estate & Casino Commands | 🟢 Active |
+| `.bdfd` / `.txt` | **BdScript** (Discord Engine) | **3** | Advanced Economy, Real Estate & Casino Commands | 🟢 Active |
 | `.py` | **Python** (Automation & AI) | **0** | Intelligent Bots, Data Analysis & OpenAI Scripts | 🟢 Active |
 | `.java` | **Java** (Core OOP) | **0** | Object-Oriented Frameworks & Backend Data | 🟡 WIP |
 | `.sh` | **Bash Shell Script** | **0** | DevOps Automation & Server Deployment | 🟢 Active |
