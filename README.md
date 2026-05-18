@@ -31,10 +31,6 @@ I am a highly motivated aspiring software engineer based in Germany, specializin
 ### 📂 Active Production Portfolios & Projects
 #### 🤖 Economy BDFD Bot `(In Development)`
 > **Repository:** `Advanced-Economy-Bot` — A massive ecosystem built with advanced BdScript logic.
-<p align="left">
-  <img src="https://img.shields.io/github/repo-size/MihaiTeleuca/Advanced-Economy-Bot?label=Project%20Size&color=blue&style=flat-square" alt="Repo Size">
-  <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square" alt="Project Status">
-</p>
 
 ### 📊 Language & File Distribution
 *Live file counters tracking technologies across my entire GitHub account.*
