@@ -1,26 +1,19 @@
 # 👋 Hi there, I'm Mihai Teleucă
 ### 🚀 Aspiring Software Developer | AI, Automation & Discord Bot Architect
-
 <p align="left">
   <img src="https://img.shields.io/badge/Location-Germany%20%F0%9F%87%A9%F0%9F%87%AA-blue?style=flat-square" alt="Location">
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20Discord%20Automation-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Focus">
   <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-green?style=flat-square" alt="Status">
 </p>
 
----
-
 ### 🌌 About Me
-I am a highly motivated aspiring software engineer based in Germany, specializing in building intelligent systems and high-performance Discord bots. My expertise ranges from automation with **BdScript** to advanced software architecture with **Python** and **Java**.
-
-- 🔭 **Current Focus:** Developing advanced Discord bots and integrating OpenAI for smart automation.
-- 🧪 **Specialized In:** BdScript (BDFD) and Python-based bot frameworks.
-- 🌱 **Learning Path:** Deep diving into Machine Learning and Java Enterprise solutions.
-- 📫 **How to reach me:** Check my professional signature or reach out via email.
-
----
+I am a highly motivated aspiring software engineer based in Germany, specializing in building intelligent systems, advanced Discord architectures, and automation scripts. My goal is to write clean, modular, and maintainable code across different environments.
+- 🔭 **Current Focus:** Developing an advanced 400+ command Discord economy bot and expanding into Python automation.
+- 🧪 **Specialized In:** Advanced BdScript (BDFD) structural architecture and Python-based bot frameworks.
+- 🌱 **Learning Path:** Deep diving into Machine Learning integration, Data Management, and Java Enterprise solutions.
+- 📫 **How to reach me:** Connect with me via my professional channels or email.
 
 ### 💻 My Tech Stack & Tools
-
 #### 🚀 Programming & Scripting
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -28,7 +21,6 @@ I am a highly motivated aspiring software engineer based in Germany, specializin
   <img src="https://img.shields.io/badge/BdScript-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="BdScript" />
   <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
 </p>
-
 #### 🧠 AI & Discord Bot Development
 <p align="left">
   <img src="https://img.shields.io/badge/Discord.py-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.py" />
@@ -36,36 +28,26 @@ I am a highly motivated aspiring software engineer based in Germany, specializin
   <img src="https://img.shields.io/badge/Bot_Design-FF4500?style=for-the-badge&logo=probot&logoColor=white" alt="BotDesign" />
 </p>
 
-#### 🛠️ DevOps & Tools
+### 📂 Repository File Ecosystem & Statistics
+*Real-time file distribution and language counters across my production repositories.*
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
+  <img src="https://img.shields.io/github/directory-file-count/MihaiTeleuca/Advanced-Economy-Bot/Modul_01_Core_Admin?label=Admin%20Files%20(.bdfd)&color=orange&style=flat-square" alt="Admin Files">
+  <img src="https://img.shields.io/github/directory-file-count/MihaiTeleuca/Advanced-Economy-Bot/Modul_02_Economy?label=Economy%20Files%20(.bdfd)&color=7289DA&style=flat-square" alt="Economy Files">
 </p>
 
----
-
-### 📊 GitHub Stats & Performance
-
-![Mihai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MihaiTeleuca&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=86400)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MihaiTeleuca&layout=compact&theme=dark&hide_border=true&cache_seconds=86400)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MihaiTeleuca&theme=dark&hide_border=true)
-
-<p align="left">
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=MihaiTeleuca&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
+| File Extension | Technology / Language | Total Files | Core Purpose in Portfolios | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| `.bdfd` / `.txt` | **BdScript** (Discord Engine) | **2** | Advanced Economy, Real Estate & Casino Commands | 🟢 Active |
+| `.py` | **Python** (Automation & AI) | **0** | Intelligent Bots, Data Analysis & OpenAI Scripts | 🟢 Active |
+| `.java` | **Java** (Core OOP) | **0** | Object-Oriented Frameworks & Backend Data | 🟡 WIP |
+| `.sh` | **Bash Shell Script** | **0** | DevOps Automation & Server Deployment | 🟢 Active |
 
 ---
-
 ### 🎯 Portfolio & Roadmap
-- [x] 🤖 **BdScript Mastery:** Successfully deployed custom Discord bots for community management.
-- [ ] 🧠 **AI-Integrated Bot:** Python-based Discord agent using OpenAI for real-time natural language processing.
-- [ ] ⚙️ **Automation Tools:** Building a suite of scripts for system optimization and data management.
-
+- [x] 🤖 **BdScript Mastery:** Deployed a highly scalable modular 16-module architecture for custom Discord environments.
+- [ ] 🧠 **AI-Integrated Agent:** Python-based bot using OpenAI API for advanced contextual NLP processing.
+- [ ] ⚙️ **System Optimization suite:** Building a library of `.sh` and `.py` tools for workflow automation.
 ---
-
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it’s bad."</i> — Cory House
 </p>
