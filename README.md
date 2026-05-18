@@ -34,7 +34,6 @@ I am a highly motivated aspiring software engineer based in Germany, specializin
 <p align="left">
   <img src="https://img.shields.io/github/repo-size/MihaiTeleuca/Advanced-Economy-Bot?label=Project%20Size&color=blue&style=flat-square" alt="Repo Size">
   <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square" alt="Project Status">
-  <img src="https://img.shields.io/github/directory-file-count/MihaiTeleuca/Advanced-Economy-Bot?label=Total%20Commands%20Created&color=success&style=flat-square" alt="Total Commands">
 </p>
 
 ### 📊 Language & File Distribution
