@@ -46,10 +46,12 @@ I am a highly motivated aspiring software engineer based in Germany, specializin
 ---
 
 ### 📊 GitHub Stats & Performance
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MihaiTeleuca&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Mihai's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihaiTeleuca&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
+
+![Mihai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MihaiTeleuca&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=86400)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MihaiTeleuca&layout=compact&theme=dark&hide_border=true&cache_seconds=86400)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MihaiTeleuca&theme=dark&hide_border=true)
 
 <p align="left">
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=MihaiTeleuca&theme=dark&hide_border=true" alt="GitHub Streak" />
