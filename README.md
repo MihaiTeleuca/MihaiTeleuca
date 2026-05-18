@@ -37,7 +37,7 @@ I am a highly motivated aspiring software engineer based in Germany, specializin
 
 | File Extension | Technology / Language | Total Files | Core Purpose in Portfolios | Project Status |
 | :--- | :--- | :--- | :--- | :--- |
-| `.bdfd` / `.txt` | **BdScript** (Discord Engine) | **4** | Advanced Economy, Real Estate & Casino Commands | 🟢 Active |
+| `.bdfd` / `.txt` | **BdScript** (Discord Engine) | **5** | Advanced Economy, Real Estate & Casino Commands | 🟢 Active |
 | `.py` | **Python** (Automation & AI) | **0** | Intelligent Bots, Data Analysis & OpenAI Scripts | 🟢 Active |
 | `.java` | **Java** (Core OOP) | **0** | Object-Oriented Frameworks & Backend Data | 🟡 WIP |
 | `.sh` | **Bash Shell Script** | **0** | DevOps Automation & Server Deployment | 🟢 Active |
