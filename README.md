@@ -1,75 +1,88 @@
-<div align="right">
-  <table border="0">
-    <tr>
-      <td>
-        <a href="README.md">
-          <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/gb.svg" width="20" style="border-radius: 3px;" valign="middle" />
-          <b>English</b>
-        </a>
-      </td>
-      <td>&nbsp;&nbsp;|&nbsp;&nbsp;</td>
-      <td>
-        <a href="README-ro.md">
-          <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ro.svg" width="20" style="border-radius: 3px;" valign="middle" />
-          <span style="color: #888;">Română</span>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffd700&height=220&section=header&text=Hi,%20I'm%20the%20creator%20of%20Kallisto&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=0D1117" alt="Header Banner" />
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00BFFF&height=250&section=header&text=Welcome%20to%20My%20Digital%20Workspace&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Advanced%20IT%20Systems%20Architect%20%7C%20Full-Stack%20Engineer&descAlignY=55&descAlign=50" alt="Header Banner" />
+  
+  <br>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=ffd700&center=true&vCenter=true&width=600&lines=Building+Next-Gen+Discord+Bots;Mastering+Complex+Economy+Systems;Crafting+Premium,+Optimized+Code" alt="Typing SVG" />
+  <img src="https://github.com/MihaiTeleuca.png" width="160" height="160" style="border-radius: 50%; border: 3px solid #00BFFF; box-shadow: 0px 0px 15px #00BFFF;" alt="Mihai's Avatar" />
+
+  <br><br>
+
+  <h1>Hi there, I'm Mihai! 👋</h1>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1500&color=00BFFF&center=true&vCenter=true&width=600&lines=26+y%2Fo+IT+Systems+Architect+from+Romania+%F0%9F%87%B7%F0%9F%87%B4;Currently+engineering+in+Germany+%F0%9F%87%A9%F0%9F%87%AA;Writing+pure+logic%2C+bypassing+framework+limitations.;Building+the+future+of+scalable+software." alt="Typing SVG" />
+  </a>
 </div>
 
 <br>
 
-### 💠 About Me & My Architecture
-<table>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=80&section=header&text=System%20Status%20::%20About%20Me&fontSize=30&fontColor=ffffff&fontAlignY=50" alt="About Me Banner" />
+</div>
+
+<table align="center" width="100%">
   <tr>
-    <td width="60%">
-      I specialize in developing high-performance, multipurpose Discord solutions that go beyond standard limits. My development philosophy is rooted in absolute efficiency and stunning visual design.
-      <br><br>
-      ⚡ <b>Clean Architecture:</b> Writing zero-clutter scripts, eliminating unnecessary spacing, and strictly managing platform constraints like the 4,999-character variable cap.<br>
-      🧠 <b>Precision Logic:</b> Utilizing highly accurate mathematical functions (<code>$calculate</code>), perfect escape characters for nested logic, and flawless server variable tracking (<code>$serverOwner</code>).<br>
-      🎨 <b>Premium UI/UX:</b> Designing ultra-advanced embeds and modern, dynamic progress bars for features like pagination, banking limits, and iterative level systems.
+    <td width="60%" valign="top">
+      <br>
+      <p>I am a 26-year-old Full-Stack Engineer and IT Professional, originally from Romania and currently residing in Germany. I blend structural discipline with creative, complex problem-solving to build high-performance software, impenetrable web experiences, and deeply integrated Discord ecosystems. <b>If it can be coded, I can optimize it.</b></p>
+      <ul>
+        <li>🛡️ <b>Security-First Mindset:</b> Every line of code is written with security best practices in mind, from input validation to authentication matrices.</li>
+        <li>🚀 <b>Scalable Performance:</strong> My architectures are built to handle real-world load, focusing on efficient payload delivery, asynchronous processing, and modular codebases.</li>
+        <li>⚡ **Algorithmic Obsession:** I don't just use frameworks; I reverse-engineer and optimize them through pure logic to achieve maximum uptime and zero latency.</li>
+      </ul>
     </td>
-    <td width="40%" align="center">
-      <b>🛠️ Tech & Tools</b><br><br>
-      <img src="https://skillicons.dev/icons?i=discord,js,nodejs,mongodb,mysql,git,github,vscode&perline=4&theme=dark" alt="Skills Stack" />
+    <td width="40%" valign="top" align="center">
+      <br>
+      <h3 align="center">📊 Skills Proficiency</h3>
+      <br>
+      <img src="https://skillicons.dev/icons?i=js,nodejs,python,java,lua,html,css,discord,react,git,vscode,terminal&theme=dark&perline=4" alt="Skills Grid" />
     </td>
   </tr>
 </table>
 
----
-
-### 💎 The <span style="color:#ffd700">Kallisto</span> Ecosystem
-<b><span style="color:#ffd700">Kallisto</span></b> is engineered to be the definitive all-in-one Discord powerhouse. It eliminates the need for multiple bots by offering a unified, professional, and flawlessly executed experience for any top-tier server.
-
-> **Core Modules:** Iterative Business & Clan Economy | Dynamic Ticket Systems | Seamless Pagination & Logs | Absolute Moderation
-
-<div align="center">
-  <br>
-  <a href="https://discord.com/oauth2/authorize?client_id=1507384408037130281&permissions=5066560213739575&integration_type=0&scope=bot+applications.commands">
-    <img src="https://img.shields.io/badge/ADD_KALLISTO_TO_YOUR_SERVER-ffd700?style=for-the-badge&logo=discord&logoColor=black&scale=1.4" alt="Invite Bot" />
-  </a>
-</div>
-
----
-
-### 🌐 Let's Connect & Build
-<div align="center">
-  <p>Whether you need support for <b><span style="color:#ffd700">Kallisto</span></b>, want to discuss advanced bot mechanics, or just want to join a thriving community, you can find me here:</p>
-  <a href="https://discord.gg/Zbd8hNFx4H"><img src="https://img.shields.io/badge/Main_Server-2C2F33?style=for-the-badge&logo=discord&logoColor=white" alt="Main Server" /></a>
-  <a href="https://discord.gg/Tkzhmfbdct"><img src="https://img.shields.io/badge/Kallisto_Support-ffd700?style=for-the-badge&logo=discord&logoColor=black" alt="Support Server" /></a>
-  <a href="https://www.facebook.com/profile.php?viewas=100000686899395&id=61589878660261"><img src="https://img.shields.io/badge/Facebook_Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-</div>
 <br>
-<div align="center">
-  <i>"Building the future of Discord communities, one line of clean code at a time."</i><br>
-  <b>Discord Tag:</b> <code>teleucametrics</code>
+
+---
+
+## 🛠️ Technological Arsenal Breakdown
+
+### 💻 **Core Systems & Backend**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) 
+
+### 🤖 **Bot Ecosystem Engineering**
+![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white) 
+![Discord API](https://img.shields.io/badge/Discord_API-00BFFF?style=for-the-badge&logo=discord&logoColor=white)
+![BDFD_Logic-000000?style=for-the-badge&logo=codeigniter&logoColor=white) 
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+
+### ⚙️ **Workflow, Devops & Environment**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+<br>
+
+---
+
+## 📡 Establish Connection
+
+Looking to integrate elite bot architecture into your server or collaborate on complex IT systems? Initiate a secure connection:
+
+<div align="left">
+[![Email Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com) 
+[![Direct Message-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID) 
+[![Join My Network-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_SERVER_INVITE)
 </div>
+
+---
+
+<br>
+
+<p align="center">
+  <i>Executing final sequence... Awaiting next instruction... Network secure.</i>
+</p>
