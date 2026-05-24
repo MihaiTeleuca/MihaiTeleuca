@@ -17,25 +17,24 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=80&section=header&text=System%20Status%20::%20About%20Me&fontSize=30&fontColor=ffffff&fontAlignY=50" alt="About Me Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=60&section=header&text=System%20Status%20::%20About%20Me&fontSize=24&fontColor=ffffff&fontAlignY=50" alt="About Me Banner" />
 </div>
 
 <table align="center" width="100%">
   <tr>
     <td width="60%" valign="top">
-      <br>
+      <h3>👨‍💻 Initialization Sequence</h3>
       <p>I am a 26-year-old Full-Stack Engineer and IT Professional, originally from Romania and currently residing in Germany. I blend structural discipline with creative, complex problem-solving to build high-performance software, impenetrable web experiences, and deeply integrated Discord ecosystems. <b>If it can be coded, I can optimize it.</b></p>
       <ul>
         <li>🛡️ <b>Security-First Mindset:</b> Every line of code is written with security best practices in mind, from input validation to authentication matrices.</li>
-        <li>🚀 <b>Scalable Performance:</strong> My architectures are built to handle real-world load, focusing on efficient payload delivery, asynchronous processing, and modular codebases.</li>
-        <li>⚡ **Algorithmic Obsession:** I don't just use frameworks; I reverse-engineer and optimize them through pure logic to achieve maximum uptime and zero latency.</li>
+        <li>🚀 <b>Scalable Performance:</b> My architectures handle real-world load, focusing on efficient payload delivery, asynchronous processing, and modular codebases.</li>
+        <li>⚡ <b>Algorithmic Obsession:</b> I don't just use frameworks; I reverse-engineer and optimize them through pure logic.</li>
       </ul>
     </td>
     <td width="40%" valign="top" align="center">
+      <h3>📊 Skills Grid</h3>
       <br>
-      <h3 align="center">📊 Skills Proficiency</h3>
-      <br>
-      <img src="https://skillicons.dev/icons?i=js,nodejs,python,java,lua,html,css,discord,react,git,vscode,terminal&theme=dark&perline=4" alt="Skills Grid" />
+      <img src="https://skillicons.dev/icons?i=js,nodejs,python,java,lua,html,css,discord,react,git,vscode,bash&theme=dark&perline=4" alt="Skills Grid" />
     </td>
   </tr>
 </table>
@@ -48,7 +47,6 @@
 
 ### 💻 **Core Systems & Backend**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) 
@@ -56,7 +54,7 @@
 ### 🤖 **Bot Ecosystem Engineering**
 ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white) 
 ![Discord API](https://img.shields.io/badge/Discord_API-00BFFF?style=for-the-badge&logo=discord&logoColor=white)
-![BDFD_Logic-000000?style=for-the-badge&logo=codeigniter&logoColor=white) 
+![Bot Designer](https://img.shields.io/badge/BDFD_Logic-000000?style=for-the-badge&logo=codeigniter&logoColor=white) 
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
 ### ⚙️ **Workflow, Devops & Environment**
@@ -73,16 +71,24 @@
 
 Looking to integrate elite bot architecture into your server or collaborate on complex IT systems? Initiate a secure connection:
 
-<div align="left">
-[![Email Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com) 
-[![Direct Message-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID) 
-[![Join My Network-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_SERVER_INVITE)
+<div align="center">
+  <a href="mailto:mihaieleuca.office@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://discord.com/users/838458623335071784">
+    <img src="https://img.shields.io/badge/Direct_Message-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://discord.gg/testers">
+    <img src="https://img.shields.io/badge/Join_My_Network-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Server" />
+  </a>
 </div>
 
 ---
 
 <br>
 
-<p align="center">
-  <i>Executing final sequence... Awaiting next instruction... Network secure.</i>
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MihaiTeleuca&label=Profile%20Views&color=00BFFF&style=flat-square" alt="Profile Views" />
+  <br><br>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&pause=3000&color=00BFFF&center=true&vCenter=true&width=600&height=40&lines=Executing+final+sequence...;Awaiting+next+instruction...;Network+secure." alt="Footer Terminal" />
+</div>
